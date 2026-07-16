@@ -2,6 +2,11 @@
 
 Sistema desenvolvido em Python para automatizar a geração de contratos de trabalho.
 
+## Objetivo
+Facilitar o cadastro, leitura e organização de contratos,
+automatizando tarefas administrativas.
+
+
 ## Funcionalidades (em desenvolvimento)
 
 - Leitura de planilhas Excel
