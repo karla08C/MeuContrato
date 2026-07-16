@@ -1,0 +1,11 @@
+CONTRATO DE TRABALHO
+
+Nome: {{nome}}
+
+CPF: {{cpf}}
+
+Cargo: {{cargo}}
+
+Salário: R$ {{salario}}
+
+Data de admissão: {{admissao}}
